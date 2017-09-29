@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_permission_denied">We need your location</string>
+    <string name="connection_failed_play_services_message">Something went wrong trying to connect to Google Play Services</string>
+    <string name="start_tracker">Start tracker</string>
+    <string name="view_history_list">View History List</string>
+    <string name="stop_tracker">Stop Tracker</string>
+    <string name="history">History</string>
+    <string name="date">Date</string>
+    <string name="coordinates">Coordinates</string>
+</resources>
